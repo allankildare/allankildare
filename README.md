@@ -1,6 +1,6 @@
 ### Hello world! 😜
 
-My name is Allan Kildare from Brazil. I'm Front-End Developer and since 2014 I've been training my skills in web development. I started with HTML and CSS and I am currently going deeper into JavaScript and SQL. I have also had experience with ReactJS and Vue.js and I'm loving the JavaScript world.
+My name is Allan Kildare from Brazil. I'm Front-End Developer and since 2014 I've been training my skills in web development. I started with HTML and CSS and I am currently going deeper into JavaScript and SQL. I have also had experience with ReactJS and Vue.js and I'm loving the JavaScript world. I'm studying Computer Science at Universidade Federal do Rio de Janeiro.
 
 I am developer, but I have social life, ok?
 
