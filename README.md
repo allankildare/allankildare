@@ -5,6 +5,7 @@ My name is Allan Kildare from Brazil :brazil:. I'm Front-End Developer and since
 I am developer, but I have social life, ok?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankildare)](https://www.linkedin.com/in/allankildare)
+![](https://komarev.com/ghpvc/?username=allankildare&style=flat-square)
 
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/?username=allankildare&title_color=ffbe33&text_color=fefefe&bg_color=0D1117">
