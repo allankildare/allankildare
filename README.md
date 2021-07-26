@@ -1,6 +1,9 @@
 ### Hello world! 😜
 
-My name is Allan Kildare from Brazil :brazil:. I'm Front-End Developer and since 2014 I've been training my skills in web development. Developing thinking about UX / UI is extremely important to me and I try to improve my projects thinking about it. Oh! I'm studying Computer Science at Universidade Federal do Rio de Janeiro. I'm also studied Web Programming at IFRN.
+My name is Allan Kildare from Brazil :brazil:. I'm Front-End Developer and since 2014 I've been training my skills in web development. Developing thinking about UX / UI is extremely important to me and I try to improve my projects thinking about it.
+
+Oh! I'm working at [**StoneCo**](https://www.stone.com.br/) (finance company in Brazil) and studying **Computer Science** at *Universidade Federal do Rio de Janeiro*.
+I'm also studied **Web Programming** at IFRN (federal science and technology institute).
 
 ### Tecnologies I use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
