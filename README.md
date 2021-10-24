@@ -6,6 +6,8 @@ Oh! I'm working at [**StoneCo**](https://www.stone.com.br/) (finance company in 
 
 I'm also studied **Web Programming** at IFRN (federal science and technology institute).
 
+I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of material available in English, so I try to collaborate using my language and it helps even more people.
+
 ### Tecnologies I use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
