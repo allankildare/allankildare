@@ -2,9 +2,11 @@
 
 My name is Allan Kildare from Brazil :brazil:. I'm Front-End Developer and since 2014 I've been training my skills in web development. Developing thinking about UX / UI is extremely important to me and I try to improve my projects thinking about it.
 
-Oh! I'm working at [**StoneCo**](https://www.stone.com.br/) (finance company in Brazil) and studying **Computer Science** at *Universidade Federal do Rio de Janeiro*.
+Oh! I'm working at [**StoneCo**](https://www.stone.com.br/) (finance company in Brazil).
 
-I'm also studied **Web Programming** at IFRN (federal science and technology institute).
+I'm studying **Computer Science** at *Universidade Federal do Rio de Janeiro*.
+
+I also studied **Web Programming** at IFRN (federal science and technology institute).
 
 I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of material available in English, so I try to collaborate using my language and it helps even more people.
 
