@@ -8,7 +8,7 @@ I'm studying **Computer Science** at *Universidade Federal do Rio de Janeiro*.
 
 I also studied **Web Programming** at IFRN (federal science and technology institute).
 
-I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of material available in English, so I try to collaborate using my language and it helps even more people.
+I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of available material in English, so I try to collaborate using my language and it helps even more people.
 
 ### Tecnologies I use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
