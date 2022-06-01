@@ -1,4 +1,4 @@
-### Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16px">
+### Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16">
 
 My name is Allan Kildare from Brazil :brazil:. I'm Front-End Developer and since 2014 I've been training my skills in web development. Developing thinking about UX / UI is extremely important to me and I try to improve my projects thinking about it.
 
