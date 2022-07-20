@@ -6,6 +6,8 @@ I'm studying **Computer Science** at Universidade Federal do Rio de Janeiro.
 
 I also studied **Web Programming** at IFRN (federal science and technology institute).
 
+Oh, I'm working at [CoderHouse Brasil](https://www.coderhouse.com.br/) as a **Web Development Tutor**.
+
 I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of available material in English, so I try to collaborate using my language and it helps even more people.
 
 **English :us::** Are you a recruiter and want to see my projects? Please, [click here](https://github.com/allankildare/projects-list) and have access to a complete list.<br>
