@@ -6,7 +6,7 @@ I'm studying **Computer Science** at Universidade Federal do Rio de Janeiro.
 
 I also studied **Web Programming** at IFRN (federal science and technology institute).
 
-Oh, I'm working at [CoderHouse Brasil](https://www.coderhouse.com.br/) as a **Web Development Tutor**.
+Oh, I'm working at [Opeaz](https://www.opeaz.fr/) as a **Frontend Developer** and at [Coderhouse](https://www.coderhouse.com.br/) as **Web Development Tutor**.
 
 I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of available material in English, so I try to collaborate using my language and it helps even more people.
 
