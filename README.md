@@ -10,8 +10,8 @@ Oh, I'm working at [Opeaz](https://www.opeaz.fr/) as a **Frontend Developer** an
 
 I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of available material in English, so I try to collaborate using my language and it helps even more people.
 
-**English :us::** Are you a recruiter and want to see my projects? Please, [click here](https://github.com/allankildare/projects-list) and have access to a complete list.<br>
-**Português :brazil::** Você é um(a) recrutador(a) e quer ver meus projetos? Por favor, [clique aqui](https://github.com/allankildare/projects-list) e tenha acesso a uma lista completa.
+**English :us::** Do you want to see my projects? Please, [click here](https://github.com/allankildare/projects-list) and have access to a complete list.<br>
+**Português :brazil::** Você  quer ver meus projetos? Por favor, [clique aqui](https://github.com/allankildare/projects-list) e tenha acesso a uma lista completa.
 
 ### Tecnologies I use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
