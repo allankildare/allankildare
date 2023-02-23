@@ -1,14 +1,12 @@
 ### Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16">
 
-My name is Allan Kildare from Brazil :brazil:. I'm Front-End Developer and since 2014 I've been training my skills in web development. Developing thinking about UX / UI is extremely important to me and I try to improve my projects thinking about it.
+I'm Allan Kildare from Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13">, Front-end Developer focused on the main technologies, creating delightful, testable and user friendly web applications.
 
-I'm studying **Computer Science** at Universidade Federal do Rio de Janeiro.
-
-I also studied **Web Programming** at IFRN (federal science and technology institute).
-
-Oh, I'm working at [Opeaz](https://www.opeaz.fr/) as a **Frontend Developer** and at [Coderhouse](https://www.coderhouse.com.br/) as **Web Development Tutor**.
-
-I'm a proud Brazilian and I try to use my language (Portuguese) in most repositories, there is a lot of available material in English, so I try to collaborate using my language and it helps even more people.
+<ul>
+    <p>:mortar_board: I'm studying <b>Computer Science</b> at Universidade Federal do Rio de Janeiro.<br>&nbsp;&nbsp;&nbsp;&nbsp;And I also studied <b>Web Programming</b> at IFRN (federal science and technology institute).</p></p>
+    <p>:blue_heart: I'm working at <a href="https://www.opeaz.fr/">Opeaz</a> as a <b>Frontend Developer</b> and at <a href="https://www.coderhouse.com.br/">Coderhouse</a> as <b>Web Development Teacher</b>.</p>
+    <p>🌱 I really love coffee, nature and practice sports.</p>
+</ul>
 
 **English :us::** Do you want to see my projects? Please, [click here](https://github.com/allankildare/projects-list) and have access to a complete list.<br>
 **Português :brazil::** Você  quer ver meus projetos? Por favor, [clique aqui](https://github.com/allankildare/projects-list) e tenha acesso a uma lista completa.
@@ -24,7 +22,7 @@ I'm a proud Brazilian and I try to use my language (Portuguese) in most reposito
 
 
 #### Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankildare)](https://www.linkedin.com/in/allankildare)
+[![Linkedin Badge](https://img.shields.io/badge/-AllanKildare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankildare)](https://www.linkedin.com/in/allankildare)
 ![](https://komarev.com/ghpvc/?username=allankildare&style=flat-square)
 
 <p align='center'>
