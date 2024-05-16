@@ -1,10 +1,11 @@
 ### Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16">
 
+♻️ OPEN TO WORK
+
 I'm Allan Kildare from Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13">, Front-end Developer focused on the main technologies, creating delightful, testable and user friendly web applications.
 
 <ul>
     <p>:mortar_board: I'm studying <b>Computer Science</b> at Universidade Federal do Rio de Janeiro.<br>&nbsp;&nbsp;&nbsp;&nbsp;And I also studied <b>Web Programming</b> at IFRN (federal science and technology institute).</p></p>
-    <p>:blue_heart: I'm working at <a href="https://www.opeaz.fr/">Opeaz</a> as a <b>Frontend Developer</b> and at <a href="https://www.coderhouse.com.br/">Coderhouse</a> as <b>Web Development Teacher</b>.</p>
     <p>🌱 I really love coffee, nature and practice sports.</p>
 </ul>
 
