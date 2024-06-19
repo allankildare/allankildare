@@ -1,7 +1,5 @@
 ### Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16">
 
-♻️ OPEN TO WORK
-
 I'm Allan Kildare from Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13">, Front-end Developer focused on the main technologies, creating delightful, testable and user friendly web applications.
 
 <ul>
