@@ -17,12 +17,12 @@ I'm Allan Kildare from Brazil <img src="https://cdn-icons-png.flaticon.com/512/1
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 
 #### Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-AllanKildare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allankildare)](https://www.linkedin.com/in/allankildare)
-![](https://komarev.com/ghpvc/?username=allankildare&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allankildare)
+[![Website](https://img.shields.io/badge/website-%231c1c1c.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://allankildare.github.io)
 
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/?username=allankildare&title_color=ffbe33&text_color=fefefe&bg_color=0D1117">
