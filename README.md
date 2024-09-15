@@ -8,7 +8,7 @@ I'm Allan Kildare from Brazil <img src="https://cdn-icons-png.flaticon.com/512/1
 </ul>
 
 **English :us::** Do you want to see my projects? Please, [click here](https://github.com/allankildare/projects-list) and have access to a complete list.<br>
-**Português :brazil::** Você  quer ver meus projetos? Por favor, [clique aqui](https://github.com/allankildare/projects-list) e tenha acesso a uma lista completa.
+**Português :brazil::** Você  quer ver meus projetos? Por favor, [clique aqui](https://github.com/allankildare/projects-list/blob/main/README-pt.md) e tenha acesso a uma lista completa.
 
 #### Contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allankildare)
